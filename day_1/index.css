@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #eee;
+  color: #4a4a4a;
+}
+
+header,
+footer {
+  font-size: large;
+  text-align: center;
+  padding: 0.3em 0;
+  background-color: #4a4a4a;
+  color: #f9f9f9;
+}
+
+nav {
+  text-align: center;
+  background: #bfbbbe;
+}
+
+main {
+  margin-left: 520px;
+  background: none;
+}
+
+aside {
+
+  text-align: center;
+  background: #bfbbbe;
+}
